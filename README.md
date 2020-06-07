@@ -1,9 +1,10 @@
+<html>
+<body>
 <h1>Welcome to  Nabajyoti's GitHub Pages</h1>
 
 ->>This is a banking management Programing using C languages
 
-->>User can create their own account and can acces it
-
+<p>->>User can create their own account and can acces it</p>
 ->>For particular any user there is a particular username and password and Account number.
 
 ->>User can perform transaction using it
@@ -25,3 +26,5 @@
 ->>process.h
 
  <p>Source code Link:-</p>https://github.com/Nabajyotighosh/Banking-management-programing-using-C-language/blob/master/banking.c
+</html>
+</body>
