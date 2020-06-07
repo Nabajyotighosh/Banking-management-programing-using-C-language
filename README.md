@@ -6,7 +6,8 @@
 
 ->>For particular any user there is a particular username and password and Account number.
 
-->>User can perform transaction using it<br>
+->>User can perform transaction using it
+
 ->>Acoount details can be modified
 
 ->>please visit to github page to see the source code
@@ -23,4 +24,4 @@
 
 ->>process.h
 
- Source code:-https://github.com/Nabajyotighosh/Banking-management-programing-using-C-language/blob/master/banking.c
+ Source code Link:-https://github.com/Nabajyotighosh/Banking-management-programing-using-C-language/blob/master/banking.c
